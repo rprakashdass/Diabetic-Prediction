@@ -1,5 +1,8 @@
 # Diabetic Prediction
 
+![Screenshot (81)croped](https://github.com/prakash02100/Diabetic_Prediction/assets/123339797/b4e27c47-c469-49fb-835f-539735d13868)
+
+
 This GitHub repository contains code and resources for predicting diabetes using machine learning algorithms. The project utilizes the PIMA dataset and provides a streamlined way to run the prediction on Streamlit.
 
 ## Instructions
